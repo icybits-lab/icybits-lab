@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IcyyBits
+- 👋 Hi, I’m IcyBits
 - 👀 I’m interested in making web games
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate in the future (I'm not an expert. Gotta learn more)
