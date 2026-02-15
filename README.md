@@ -21,4 +21,4 @@
 ---
 
 ### Note:
-<p style="font-size: 5px; margin-left: 50px;"><em>I am not the owner of the account named "icybits" in GitHub. My only account is "icybits-lab". We are not connected or related in any way.</em></p>
+<em>I am not the owner of the account named "icybits" in GitHub. My only account is "icybits-lab". We are not connected or related in any way.</em>
