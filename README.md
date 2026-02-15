@@ -18,7 +18,7 @@
 - 💔 Single
 - 👀 Will do unpaid internship. Just teach me well
 
+---
+
 ### Note:
 I am not the owner of the account named "icybits" in GitHub. My only account is "icybits-lab". We are not connected or related in any way.
-
-Althought it would be nice to get that username for myself. I have proof that I'm using this name on various platforms since 2020... should've copyrighted my name 🙂 
