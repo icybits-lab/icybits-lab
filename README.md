@@ -11,7 +11,7 @@
 </p>
 
 - 👋 Hi, I’m IcyBits
-- 👀 I’m interested in making web apps and games
+- 📋 I’m interested in making web apps and games
 - 🌱 I can do HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate in the future
 - ♂️ Male
