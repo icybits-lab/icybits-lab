@@ -11,12 +11,12 @@
 </p>
 
 - 👋 Hi, I’m IcyBits
-- 👀 I’m interested in making web games
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate in the future (I'm not an expert. Gotta learn more)
-- 📫 You can still reach me through my personal email: mahirahmansocial503@gmail.com
-or Discord: IcyBits
-- 😄 Pronouns: he/him
+- 👀 I’m interested in making web apps and games
+- 🌱 I can do HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate in the future
+- ♂️ Male
+- 💔 Single
+- 👀 Will do unpaid internship. Just teach me well
 
 ### Note:
 I am not the owner of the account named "icybits" in GitHub. My only account is "icybits-lab". We are not connected or related in any way.
