@@ -21,4 +21,4 @@
 ---
 
 ### Note:
-<em style="font-family: monospace; color: #ABACAE; font-size: 15px;">I am not the owner of the account named "icybits" in GitHub. My only account is "icybits-lab". We are not connected or related in any way.</em>
+<p style="font-family: monospace; color: #ABACAE; font-size: 15px; margin-left: 10px;"><em>I am not the owner of the account named "icybits" in GitHub. My only account is "icybits-lab". We are not connected or related in any way.</em></p>
